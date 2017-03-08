@@ -6,8 +6,8 @@ export default {
       "name2": "none",
       "value": "none.png"
     }, {
-      "name": "in",
-      "name2": "India",
+      "name": "India",
+      "name2": "in",
       "value": "in.gif"
     }, {
       "name": "andorra",

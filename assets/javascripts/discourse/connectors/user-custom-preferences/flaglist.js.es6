@@ -4,7 +4,7 @@ export default {
     {
       "name": "none",
       "name2": "none",
-      "value": "none.png"
+      "value": "none.gif"
     }, {
       "name": "India",
       "name2": "in",
